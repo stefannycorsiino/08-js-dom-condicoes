@@ -1,1 +1,5 @@
-# 08-js-dom-condicoes
+# 08 - JS - DOM e Condições
+
+### Stefanny Cândida Corsino
+
+[comment]: <> (Stefanny Cândida Corsino)
